@@ -105,7 +105,7 @@
     color: white;
   }
 
-  @media screen and (max-width: 1000px) {
+  @media screen and (max-width: 800px) {
     .about-body {
         height: 750px;
     }
